@@ -21,3 +21,7 @@ free -h
 
 # Number of processors
 nproc
+
+
+# List of process
+ps -aux
